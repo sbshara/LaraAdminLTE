@@ -49,5 +49,8 @@
     
     "require-dev": {
       "phpunit/phpunit": "~4.0"
+    },
+    "version": {
+      "current": "1.0.0-alpha"
     }
   }
